@@ -12,7 +12,7 @@ Aplicação desenvolvida durante a semana NLW3 da Rocketseat.
 
 ***
 
-### Projeto
+### Happy
 
 Happy é uma plataforma que visa facilitar visitas aos orfanatos próximos a você.
 
