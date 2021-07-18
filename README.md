@@ -1,8 +1,10 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/NLW3_Discovery?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/NLW3_Discovery?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/felipebacelo/NLW3_Discovery?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/NLW3_Discovery?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/NLW3_Discovery?style=for-the-badge)
+<p align="center">
+<a href= "https://img.shields.io/github/repo-size/felipebacelo/NLW3_Discovery?style=for-the-badge"><img src="https://img.shields.io/github/repo-size/felipebacelo/NLW3_Discovery?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/languages/count/felipebacelo/NLW3_Discovery?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/felipebacelo/NLW3_Discovery?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/forks/felipebacelo/NLW3_Discovery?style=for-the-badge"><img src="https://img.shields.io/github/forks/felipebacelo/NLW3_Discovery?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/pr-raw/felipebacelo/NLW3_Discovery?style=for-the-badge"><img src="https://img.shields.io/bitbucket/pr-raw/felipebacelo/NLW3_Discovery?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/issues/felipebacelo/NLW3_Discovery?style=for-the-badge"><img src="https://img.shields.io/bitbucket/issues/felipebacelo/NLW3_Discovery?style=for-the-badge"/></a>
+</p>
 
 # NLW3 Discovery
 
